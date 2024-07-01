@@ -1,0 +1,6 @@
+.greetings span {
+    margin-right: 5px; /* Atur jarak spasi antar huruf */
+}
+.greetings .space {
+    margin-right: 20px; /* Atur jarak spasi antara "KAK" dan "ACHIRU" */
+}
