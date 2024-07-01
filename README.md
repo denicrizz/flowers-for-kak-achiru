@@ -57,6 +57,7 @@ Proyek ini didesain untuk responsif di berbagai perangkat, termasuk:
 
 - [Md Usman Ansari](https://github.com/MdUsmanAnsari) - untuk inspirasi animasi bunga
 - Jungkook (BTS) - untuk lagu "Still With You"
+- [ellenaasari](https://github.com/ellenaasari/flowers-for-you) - untuk halaman utamanya
 
 ## 📄 Lisensi
 
@@ -71,6 +72,3 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 <p align="center">
   Copyright © 2024 Tim-13 Balikpapan
 </p>  
-   Note : 🌼
-
-    > Text dapat di edit menggunakan Text Editor
