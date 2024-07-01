@@ -71,6 +71,3 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 <p align="center">
   Copyright © 2024 Tim-13 Balikpapan
 </p>  
-   Note : 🌼
-
-    > Text dapat di edit menggunakan Text Editor
