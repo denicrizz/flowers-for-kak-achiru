@@ -40,7 +40,7 @@ Anda dapat menyesuaikan pesan dan tampilan dengan mengedit file-file berikut:
 
 - `index.html` - untuk mengubah teks ucapan
 - `css/style.css` - untuk menyesuaikan tampilan
-- `js/main.js` - untuk memodifikasi animasi atau interaksi
+- `main.js` - untuk memodifikasi animasi atau interaksi
 
 ## 📱 Responsivitas
 
