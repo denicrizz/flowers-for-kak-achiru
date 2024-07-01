@@ -56,7 +56,7 @@ Proyek ini didesain untuk responsif di berbagai perangkat, termasuk:
 ## 🙏 Ucapan Terima Kasih
 
 - [Md Usman Ansari](https://github.com/MdUsmanAnsari) - untuk inspirasi animasi bunga
-- Jungkook (BTS) - untuk lagu "Still With You"
+- [Jungkook (BTS)](https://youtu.be/BksBNbTIoPE?si=tOBKmA-bjWXACKM4) - untuk lagu "Still With You"
 - [ellenaasari](https://github.com/ellenaasari/flowers-for-you) - untuk halaman utamanya
 
 ## 📄 Lisensi
