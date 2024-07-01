@@ -146,10 +146,27 @@ a span:nth-child(4) {
     50%, 100% { bottom: 100%; }
 }
 
-.footer {
-    margin-top: 20px;
-    font-size: 0.8rem;
-}
+
+.copyright {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #ffffff;
+  }
+  
+  .copyright a {
+    display: inline-block;
+    margin-top: 10px;
+    transition: opacity 0.3s ease;
+  }
+  
+  .copyright a:hover {
+    opacity: 0.7;
+  }
+  
+  .copyright svg {
+    fill: #ffffff;
+  }
 
 @media screen and (max-width: 768px) {
     .greetings {
